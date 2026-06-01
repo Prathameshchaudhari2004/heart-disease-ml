@@ -10,7 +10,7 @@ The model is trained using medical data and deployed as an interactive **Streaml
 
 Try the application here:
 
-https://heart-disease-predictor-prathamesh.streamlit.app
+https://heart-disease-ml-checker.streamlit.app
 
 ---
 
@@ -48,10 +48,8 @@ Model evaluation metrics used:
 * Scikit-learn
 * Pandas
 * NumPy
-* Matplotlib
 * Seaborn
 * Streamlit
-* SHAP (Explainable AI)
 
 ---
 
